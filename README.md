@@ -6,11 +6,11 @@ User is able to click on the timeblock to enter a task and save the task to loca
 which will remain if the page is refreshed.    
 
 
-#Link to deployed application
+# Link to deployed application
 The easiest way to access this application is through this link: https://chueny.github.io/WorkDayScheduler/
 
 
-#Screen shots of the application 
+# Screen shots of the application 
 
 
 ![Screen Shot 2020-05-02 at 2 18 59 PM](https://user-images.githubusercontent.com/17972802/80894435-83ac8900-8ca0-11ea-8b27-ff9bb7c152ed.png)
@@ -18,9 +18,9 @@ The easiest way to access this application is through this link: https://chueny.
 
 
 
-#Contributors
+# Contributors
 Chue Yang 
 
 
-#Licensing
+# Licensing & copyright
 @ Chue Yang 
